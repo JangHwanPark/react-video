@@ -1,7 +1,14 @@
 import React from 'react';
+import {useParams} from "react-router-dom";
 
-export default function Videos(props) {
+export default function Videos() {
+    const { query } = useParams();
+    console.log(query)
+
     return (
-        <div>Videos</div>
+        <div>
+            <p>Videos</p>
+            <p>query : {query}</p>
+        </div>
     );
 }

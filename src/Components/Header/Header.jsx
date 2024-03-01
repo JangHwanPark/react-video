@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './Header.module.css';
 import {Link} from "react-router-dom";
+import SearchBar from "../SearchBar/SearchBar";
 
 export default function Header(props) {
     return (
@@ -8,10 +9,7 @@ export default function Header(props) {
             <div className={styles.logo_wrap}>
                 <Link to={'/'}>Youtube</Link>
             </div>
-            <div className={styles.search_wrap}>
-                <input type="text"/>
-                <button>ok</button>
-            </div>
+            <SearchBar/>
         </header>
     );
 }
