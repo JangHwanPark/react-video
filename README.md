@@ -2,14 +2,14 @@
 - [ ] **Navigation**
   - [ ] Logo
   - [ ] SearchBar
-- [ ] **Video**
+- [ ] **Videos**
   - [ ] Image(Thumbnail)
   - [ ] Channel Info
   - [ ] Date Info
 - [ ] **Detail Page**
-  - [ ] Video Title
+  - [ ] Videos Title
   - [ ] Channel Info
-  - [ ] Video Intro
+  - [ ] Videos Intro
   - [ ] List of associated Videos
 - [ ] **Responsive Web**
 
