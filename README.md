@@ -13,6 +13,9 @@
   - [ ] List of associated Videos
 - [ ] **Responsive Web**
 
+# Lib
+- Jest : `yarn add jest --dev`
+
 # Reference
 - [youtube API](https://developers.google.com/youtube/v3?hl=ko)
 - [API Reference](https://developers.google.com/youtube/v3/docs)

@@ -1,7 +1,7 @@
 import './App.css';
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
-import NotFound from "./pages/NotFound";
-import Home from "./pages/Home";
+import NotFound from "./Pages/NotFound";
+import Home from "./Pages/Home";
 
 /* React Router Dom 경로 배열 전달. */
 const router = createBrowserRouter([
