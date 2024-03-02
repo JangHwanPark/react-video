@@ -26,7 +26,7 @@ const DEFAULT_OPTIONS = {
  *
  * @example
  * function MyComponent() {
- *   const { loading, error, value } = UseFetch('https://api.example.com/data');
+ *   const { loading, error, value } = useFetch('https://api.example.com/data');
  *
  *   if (loading) return <div>로딩 중...</div>;
  *   if (error) return <div>에러 발생: {error.message}</div>;

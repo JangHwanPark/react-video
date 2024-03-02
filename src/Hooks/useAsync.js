@@ -29,7 +29,7 @@ import React, {useCallback, useEffect, useState} from 'react';
  * }
  *
  * function MyComponent() {
- *   const { loading, error, value } = UseAsync(fetchData, []);
+ *   const { loading, error, value } = useAsync(fetchData, []);
  *
  *   if (loading) return <div>로딩 중...</div>;
  *   if (error) return <div>에러: {error.message}</div>;
