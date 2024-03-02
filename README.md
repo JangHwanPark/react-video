@@ -1,7 +1,7 @@
 # [CheckList] Feature
-- [ ] **Navigation**
-  - [ ] Logo
-  - [ ] SearchBar
+- [ x ] **Navigation**
+  - [ x ] Logo
+  - [ x ] SearchBar
 - [ ] **Videos**
   - [ ] Image(Thumbnail)
   - [ ] Channel Info
