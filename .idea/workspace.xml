@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/GitReadme&quot;
+  <component name="ChangeListManager">
+    <list default="true" id="2c6b28da-ef58-4a3f-99b9-5b8aba093597" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/.sass-cache/d04d9c420dd332f70917207d7282317fbb515e38/SearchBar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2d7VlX7wacPA9SqEx87UYIK55S5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/GitReadme",
+    "nodejs_package_manager_path": "yarn"
   }
-}</component>
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="2c6b28da-ef58-4a3f-99b9-5b8aba093597" name="변경" comment="" />
+      <created>1709359256932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709359256932</updated>
+      <workItem from="1709359258036" duration="4000" />
+    </task>
+    <servers />
+  </component>
 </project>

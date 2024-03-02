@@ -8,7 +8,7 @@ export default function Videos() {
     return (
         <div>
             <p>Videos</p>
-            <p>query : {query}</p>
+            <p>query : {query ? `${query}` : 'Not'}</p>
         </div>
     );
 }
