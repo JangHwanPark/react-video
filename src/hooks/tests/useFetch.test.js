@@ -1,6 +1,6 @@
 import { renderHook, waitFor } from '@testing-library/react';
 import fetchMock from 'jest-fetch-mock';
-import useFetch from '../../Hooks/useFetch';
+import useFetch from '../useFetch';
 
 // fetch 호출을 모킹하기 위해 jest-fetch-mock을 활성화합니다.
 fetchMock.enableMocks();

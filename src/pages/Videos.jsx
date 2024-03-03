@@ -1,7 +1,7 @@
 import React from 'react';
 import {useParams} from "react-router-dom";
 import {useQuery} from '@tanstack/react-query';
-import VideoCard from "../Components/VideoCard/VideoCard";
+import VideoCard from "../components/VideoCard/VideoCard";
 import FakeYoutube from "../api/fakeYoutube";
 
 export default function Videos() {

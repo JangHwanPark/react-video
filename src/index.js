@@ -4,9 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
-import NotFound from "./Pages/NotFound";
-import Videos from "./Pages/Videos";
-import VideosDetail from "./Pages/VideosDetail";
+import NotFound from "./pages/NotFound";
+import Videos from "./pages/Videos";
+import VideosDetail from "./pages/VideosDetail";
 
 /* React Router Dom 경로 배열 전달. */
 const router = createBrowserRouter([

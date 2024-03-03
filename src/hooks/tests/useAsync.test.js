@@ -1,5 +1,5 @@
 import { renderHook, waitFor } from "@testing-library/react";
-import useAsync from "../../Hooks/useAsync";
+import useAsync from "../useAsync";
 
 /**
  * `useAsync` 커스텀 훅 테스트 스위트
