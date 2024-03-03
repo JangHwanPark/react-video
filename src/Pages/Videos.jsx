@@ -1,15 +1,18 @@
 import React from 'react';
 import {useParams} from "react-router-dom";
-import useFetch from "../Hooks/useFetch";
+import {useQuery} from '@tanstack/react-query';
+import VideoCard from "../Components/VideoCard/VideoCard";
 
 export default function Videos() {
-    const { query } = useParams();
-
-    const { loading, error, value } = useFetch('/data/video/popular.json', {}, []);
-    if (loading) return <div>로딩중</div>
-    if (error) return <div>에러발생 : {error.message}</div>
-    console.log("value : ", value);
-    console.log("value.items : ", value.items);
+    const {query} = useParams();
+    const {isLoading, error, data: videos} = useQuery({
+        queryKey: ['videos', query],
+        queryFn: async () => {
+            return fetch(`/data/video/${query ? 'search' : 'popular'}.json`)
+                .then(res => res.json())
+                .then(data => data.items);
+        }
+    });
 
     return (
         <div>
@@ -18,8 +21,10 @@ export default function Videos() {
 
             <br/>
 
-            {value.items.map(videoData => (
-                <div key={videoData.id}>{videoData.snippet.title}</div>
+            {isLoading && <p>로딩중</p>}
+            {error && <p>오류 발생</p>}
+            {videos && videos.map((videoData) => (
+                <VideoCard key={videoData.id} videoData={videoData}/>
             ))}
         </div>
     );

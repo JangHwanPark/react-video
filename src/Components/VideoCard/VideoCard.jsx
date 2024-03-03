@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function VideoCard() {
+export default function VideoCard({videoData}) {
     return (
-        <div>VideoCard</div>
+        <div>{videoData.snippet.title}</div>
     );
 }
