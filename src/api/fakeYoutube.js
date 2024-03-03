@@ -1,9 +1,7 @@
 import axios from 'axios';
 
 export default class FakeYoutube {
-    constructor() {
-
-    }
+    constructor() {}
 
     async search(query) {
         return query ? this.#searchByKeyword(query) : this.#mostPopular();
