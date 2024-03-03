@@ -19,6 +19,8 @@
 
 - React-icons : `yarn add react-icons`
 - React-Router-Dom : `yarn add react-icons react-router-dom`
+- React-Query : `yarn add @tanstack/react-query`
+- axios : `yarn add axios`
 - jest-fetch-mock : `yarn add --dev jest jest-fetch-mock`
 - Jest : `yarn add jest --dev`
 
