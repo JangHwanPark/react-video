@@ -2,7 +2,7 @@ import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Header from './Header';
+import Header from '../Header';
 
 // react-router-dom module mock 사용
 jest.mock('react-router-dom');

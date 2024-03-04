@@ -1,16 +1,18 @@
 import React from 'react';
-import {formatAgo} from "../../util/date";
+import styles from './VideoCard.module.css';
+import {formatAgo} from "../util/date";
 
 export default function VideoCard({videoData}) {
-    const { title, thumbnails, publishedAt } = videoData.snippet
+    const { title, thumbnails, channelTitle, publishedAt } = videoData.snippet
     return (
-        <div>
+        <li className={styles.video_item}>
             <img src={thumbnails.medium.url} alt="thumbnails"/>
-            <h3>{title}</h3>
             <div>
+                <h3>{title}</h3>
+                <p>{channelTitle}</p>
                 <span>조회수 0회</span>
                 <span>{formatAgo(publishedAt, 'ko')}</span>
             </div>
-        </div>
+        </li>
     );
 }
