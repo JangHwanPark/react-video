@@ -6,9 +6,9 @@ import VideoCard from "../components/VideoCard";
 import {useYoutubeApi} from "../context/YoutubeApiContext";
 
 export default function Videos() {
-    const {query} = useParams();
+    const { query} = useParams();
     const { youtube } = useYoutubeApi();
-    const {isLoading, error, data: videos} = useQuery({
+    const { isLoading, error, data: videos } = useQuery({
         queryKey: ['videos', query],
         queryFn: () => youtube.search(query)
     });
