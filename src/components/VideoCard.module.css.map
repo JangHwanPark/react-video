@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": ";AAIA,iBAAkB;EAChB,KAAK,EAAE,IAAI;;AAIX,cAAG;EACD,QAAQ,EAAE,MAAM;EAChB,OAAO,EAAE,WAAW;EACpB,kBAAkB,EAAE,QAAQ;EAC5B,kBAAkB,EAAE,CAAC;AAGvB,kCAAuB;EACrB,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,GAAG",
+"sources": ["VideoCard.module.scss"],
 "names": [],
 "file": "VideoCard.module.css"
 }

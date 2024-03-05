@@ -14,7 +14,7 @@ export default function Videos() {
     });
 
     return (
-        <div className={styles.videos_container}>
+        <main className={styles.videos_container}>
             {isLoading && <p>로딩중</p>}
             {error && <p>오류 발생</p>}
             <ul className={styles.videos_list}>
@@ -22,6 +22,6 @@ export default function Videos() {
                     <VideoCard key={videoData.id} videoData={videoData}/>
                 ))}
             </ul>
-        </div>
+        </main>
     );
 }

@@ -1,3 +1,14 @@
+@charset "UTF-8";
+.thumbnails_image {
+  width: 100%; }
 
+.video_info h3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2; }
+.video_info span:last-child:before {
+  margin: 0 4px;
+  content: "•"; }
 
 /*# sourceMappingURL=VideoCard.module.css.map */
