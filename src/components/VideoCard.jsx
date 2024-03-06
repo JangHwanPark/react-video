@@ -2,11 +2,11 @@ import React from 'react';
 import styles from './VideoCard.module.css';
 import {formatAgo} from "../util/date";
 import {Link, useNavigate} from "react-router-dom";
+import ViewCounter from "./ViewCounter";
 
 export default function VideoCard({videoData}) {
     const { channelId, title, thumbnails, channelTitle, publishedAt } = videoData.snippet;
     const navigate = useNavigate();
-    const dummyCount = 0;
 
     return (
         <li className={styles.video_item}>
@@ -22,7 +22,7 @@ export default function VideoCard({videoData}) {
             <div className={styles.video_info}>
                 <h3>{title}</h3>
                 <p>{channelTitle}</p>
-                <span>조회수 {dummyCount}회</span>
+                <ViewCounter/>
                 <span>{formatAgo(publishedAt, 'ko')}</span>
             </div>
         </li>

@@ -1,0 +1,508 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "59PevQdsqiMzc9wHyARp050VTmY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "BiMIZZ-LUvAuSRgl21IB4DXlsDY",
+      "id": "nU4Iao8eCaE",
+      "snippet": {
+        "publishedAt": "2024-03-02T18:33:17Z",
+        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+        "title": "손흥민, 13호골 폭발+최고 평점+MOM까지 싹쓸이 #SPOTIME",
+        "description": "#손흥민 #13호골 #토트넘 #크리스탈팰리스\n\n손흥민이 팰리스전에서 13호골을 터뜨렸습니다.\n자세한 내용은 영상으로 확인하시죠~\n\n📺 지금 보고 있는 '이 장면'\nSPOTV NOW에서 시청하실 수 있습니다.\n\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nU4Iao8eCaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nU4Iao8eCaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nU4Iao8eCaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nU4Iao8eCaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nU4Iao8eCaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스포타임",
+        "tags": [
+          "손흥민",
+          "손흥민 골",
+          "손흥민 득점",
+          "손흥민 활약",
+          "손흥민 이슈",
+          "손흥민 크리스탈 팰리스",
+          "토트넘 팰리스",
+          "토트넘 손흥민 골",
+          "손흥민 골 하이라이트",
+          "손흥민 득점 이슈",
+          "손흥민 13호골",
+          "손흥민 토트넘 팰리스 골",
+          "토트넘 하이라이트",
+          "손흥민 토트넘 하이라이트",
+          "토트넘 팰리스 하이라이트",
+          "손흥민 토트넘 팰리스 이슈",
+          "손흥민 13득점",
+          "손흥민 토트넘 크리스탈 팰리스",
+          "토트넘 크리스탈 팰리스",
+          "손흥민 pl 골",
+          "손흥민 pl 득점",
+          "토트넘 크리스탈 팰리스 골",
+          "토트넘 크리스탈 팰리스 하이라이트",
+          "토트넘 크리스탈 팰리스 리뷰",
+          "손흥민 리뷰",
+          "손흥민 활약상",
+          "손흥민 13호골 보기",
+          "토트넘 팰리스 골",
+          "토트넘 팰리스 리뷰",
+          "손흥민 팰리스 골 하이라이트",
+          "토트넘 팰리스 손흥민 골"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "손흥민, 13호골 폭발+최고 평점+MOM까지 싹쓸이 #SPOTIME",
+          "description": "#손흥민 #13호골 #토트넘 #크리스탈팰리스\n\n손흥민이 팰리스전에서 13호골을 터뜨렸습니다.\n자세한 내용은 영상으로 확인하시죠~\n\n📺 지금 보고 있는 '이 장면'\nSPOTV NOW에서 시청하실 수 있습니다.\n\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "KR"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3318414",
+        "likeCount": "38926",
+        "favoriteCount": "0",
+        "commentCount": "4470"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mCbFs9_g_uCzCRfCXVIoX2_E8uk",
+      "id": "E1OrE2t0nlM",
+      "snippet": {
+        "publishedAt": "2024-03-05T09:00:07Z",
+        "channelId": "UCWiS4vemV0wcxuxYPx9Z62g",
+        "title": "파묘 600만 감사합니다",
+        "description": "영화 파묘 600만 감사 영상\n\n▶ 매주 화 오후 6시 공개\n\n#충주 #홍보맨 #파묘",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1OrE2t0nlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1OrE2t0nlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1OrE2t0nlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E1OrE2t0nlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E1OrE2t0nlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "충주시",
+        "tags": [
+          "충주",
+          "충주시",
+          "공무원",
+          "홍보맨",
+          "파묘",
+          "영화",
+          "김선태",
+          "충주맨",
+          "최민식",
+          "김고은",
+          "600만",
+          "촬영지"
+        ],
+        "categoryId": "29",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "파묘 600만 감사합니다",
+          "description": "영화 파묘 600만 감사 영상\n\n▶ 매주 화 오후 6시 공개\n\n#충주 #홍보맨 #파묘"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "485885",
+        "likeCount": "12947",
+        "favoriteCount": "0",
+        "commentCount": "949"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yaDis6nzh5aWRSDvyJoe5m9-piw",
+      "id": "Iw9N86S2lh8",
+      "snippet": {
+        "publishedAt": "2024-03-03T08:00:10Z",
+        "channelId": "UCN5XdqTDRbyjXPF5NXUqWdA",
+        "title": "[sub]귀하다 귀해... 승우의 첫 유튜브 나들이.. 이게 되네?",
+        "description": "승우야 나중에 해듬이랑 곰자랑 산책가자!!!!!!!!\n\n――――――――――――――――――――――――\n[요정재형 X 일룸]\n감성적인 다이닝 테이블에 모션 기능을 더해,\n테이블의 활용도를 높인 ‘업 모션 테이블’과\n\n요정재형에서만 깜짝 공개한👀\n신혼 필수템 레마 카페장의 리뉴얼된 모습!\n'레마 주방식기장‘까지!\n\n일룸과 함께 감도 높은 인테리어를 완성하고 \n나만의 취향 가득한 라이프스타일을 만들어보세요!\n\n👉🏻제품 자세히 보러가기\nhttps://www.iloom.com/product/detail.do?productCd=IDM0004A\n\n*레마 주방식기장은 6월에 만나볼 수 있습니다💛\n\n#조승우 #일룸 #업모션테이블 #레마카페장\n―――――――――――――――――――――――\n00:00 하이라이트\n01:02 오프닝\n05:31 승우 입장 및 토크\n50:19 쿠키 영상\n50:41 승우 퇴근길",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iw9N86S2lh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iw9N86S2lh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iw9N86S2lh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iw9N86S2lh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iw9N86S2lh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "요정재형",
+        "tags": [
+          "정재형",
+          "요정재형",
+          "요정",
+          "페어리",
+          "강민경",
+          "걍밍경",
+          "유재석",
+          "뜬뜬",
+          "뚠뚠",
+          "이미주",
+          "미주",
+          "런닝맨",
+          "이적",
+          "다행이다",
+          "안테나뮤직",
+          "안테나",
+          "유희열",
+          "이효리",
+          "해듬이",
+          "강아지",
+          "반려견",
+          "반려인",
+          "해듬",
+          "시각장애인",
+          "시각장애인 안내견",
+          "안내견",
+          "안내견학교",
+          "삼성화재 안내견학교",
+          "피아노",
+          "피아노 연주",
+          "정재형 피아노",
+          "무한도전",
+          "무한도전 정재형",
+          "순정마초",
+          "무한도전 순정마초",
+          "정재형 순정마초",
+          "애견인",
+          "파리지앵",
+          "프랑스어",
+          "화분",
+          "정원",
+          "가드닝",
+          "베란다 가드닝",
+          "리트리버",
+          "래브라도 리트리버",
+          "엄정화",
+          "이상순",
+          "성시경",
+          "running",
+          "식물",
+          "식집사",
+          "식물 키우기",
+          "베란다 정원",
+          "정원 꾸미기",
+          "뮤지컬",
+          "조승우",
+          "조승우 레전드",
+          "조승우 비밀의숲",
+          "조승우 의사",
+          "조승우 라이프",
+          "라이프 조승우",
+          "조승우 오페라의유령",
+          "조승우 지금이순간",
+          "조승우 유퀴즈",
+          "조승우 반려견",
+          "조승우 곰자",
+          "맨오브라만차",
+          "조승우 지킬앤하이드",
+          "지킬앤하이드",
+          "조승우 노래",
+          "조승우 연기",
+          "일룸",
+          "일룸 가구",
+          "일룸 가구 추천",
+          "일룸 테이블"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[sub]귀하다 귀해... 승우의 첫 유튜브 나들이.. 이게 되네?",
+          "description": "승우야 나중에 해듬이랑 곰자랑 산책가자!!!!!!!!\n\n――――――――――――――――――――――――\n[요정재형 X 일룸]\n감성적인 다이닝 테이블에 모션 기능을 더해,\n테이블의 활용도를 높인 ‘업 모션 테이블’과\n\n요정재형에서만 깜짝 공개한👀\n신혼 필수템 레마 카페장의 리뉴얼된 모습!\n'레마 주방식기장‘까지!\n\n일룸과 함께 감도 높은 인테리어를 완성하고 \n나만의 취향 가득한 라이프스타일을 만들어보세요!\n\n👉🏻제품 자세히 보러가기\nhttps://www.iloom.com/product/detail.do?productCd=IDM0004A\n\n*레마 주방식기장은 6월에 만나볼 수 있습니다💛\n\n#조승우 #일룸 #업모션테이블 #레마카페장\n―――――――――――――――――――――――\n00:00 하이라이트\n01:02 오프닝\n05:31 승우 입장 및 토크\n50:19 쿠키 영상\n50:41 승우 퇴근길"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT51M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1233049",
+        "likeCount": "34624",
+        "favoriteCount": "0",
+        "commentCount": "2566"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3h3i_bDNV66UOUSoCNhqronCNq8",
+      "id": "Vj_8mvzMoo4",
+      "snippet": {
+        "publishedAt": "2024-03-05T11:00:21Z",
+        "channelId": "UC1EiHIhV6UDRWOY6BaEavdw",
+        "title": "시골집 단독주택 랜선집들이😆 드디어 공개합니다..!",
+        "description": "#단독주택 #전원생활 #햄지 #vlog #Hamzy\n\n각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n[추천링크]\nhttps://contentsfly.com/invite?p=Uhts...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vj_8mvzMoo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vj_8mvzMoo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vj_8mvzMoo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vj_8mvzMoo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vj_8mvzMoo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "집나간햄지 Wandering Hamzy",
+        "tags": [
+          "yt:cc=on",
+          "hamzy",
+          "mukbang",
+          "vlog",
+          "trip",
+          "travel",
+          "korean food",
+          "korea",
+          "korean culture",
+          "먹방",
+          "일상",
+          "브이로그",
+          "여행",
+          "맛집",
+          "혼술",
+          "랜선여행",
+          "Hamzy Vlog",
+          "야외먹방",
+          "외식",
+          "hamzyhome",
+          "home vlog",
+          "일상브이로그",
+          "반려견",
+          "강아지",
+          "푸들",
+          "휴일",
+          "햄지",
+          "Hamzyhome",
+          "Korea food",
+          "Korea culture",
+          "집순이",
+          "야식",
+          "커플",
+          "남자친구",
+          "Vlog",
+          "고양이",
+          "야외음식",
+          "요리",
+          "음식",
+          "햄지먹방",
+          "햄지브이로그",
+          "야외",
+          "집 브이로그",
+          "햄지 집",
+          "Hamzy",
+          "시골",
+          "시골생활",
+          "전원주택",
+          "단독주택",
+          "시골집"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "시골집 단독주택 랜선집들이😆 드디어 공개합니다..!",
+          "description": "#단독주택 #전원생활 #햄지 #vlog #Hamzy\n\n각국어 번역 자막 제작 : \n컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너,\nCONTENTSFLY에서 제작되었습니다.\nhttps://www.contentsfly.com\n[추천링크]\nhttps://contentsfly.com/invite?p=Uhts..."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT19M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "275365",
+        "likeCount": "6852",
+        "favoriteCount": "0",
+        "commentCount": "549"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cQujL_RtiiMWSavqiLWyxPpHIAs",
+      "id": "2XMqTdV0ZIs",
+      "snippet": {
+        "publishedAt": "2024-03-04T07:19:12Z",
+        "channelId": "UC9gxOp_-R78phMHmv2bW_sg",
+        "title": "호의와 사기 사이 어딘가에서.. 로컬시장 구경⎪🇹🇿탄자니아2",
+        "description": "아프리카 탄자니아 여행 브이로그\n내가 호구일까 이게 사기일까\n\n\n🪵🍛 ☕️ 🛌💛\n • Instagram  :  https://www.instagram.com/im1g/\n • Book(저서)  : http://bit.ly/323YAbO\n • 톱밥꼰주(부채널) : https://bit.ly/3zvfsg5",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XMqTdV0ZIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XMqTdV0ZIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XMqTdV0ZIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XMqTdV0ZIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2XMqTdV0ZIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "원지의하루",
+        "tags": [
+          "아프리카 여행",
+          "탄자니아 여행",
+          "여행 브이로그",
+          "세계여행 브이로그",
+          "아프리카 여행 브이로그",
+          "여행 유튜버",
+          "세계여행 유튜버",
+          "탄자니아 브이로그"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "호의와 사기 사이 어딘가에서.. 로컬시장 구경⎪🇹🇿탄자니아2",
+          "description": "아프리카 탄자니아 여행 브이로그\n내가 호구일까 이게 사기일까\n\n\n🪵🍛 ☕️ 🛌💛\n • Instagram  :  https://www.instagram.com/im1g/\n • Book(저서)  : http://bit.ly/323YAbO\n • 톱밥꼰주(부채널) : https://bit.ly/3zvfsg5"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "406282",
+        "likeCount": "12660",
+        "favoriteCount": "0",
+        "commentCount": "1080"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
