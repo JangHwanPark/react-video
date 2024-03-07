@@ -1,5 +1,6 @@
 @charset "UTF-8";
 .video_item {
+  margin-bottom: 1rem;
   display: flex;
   gap: 1rem; }
   .video_item img {
