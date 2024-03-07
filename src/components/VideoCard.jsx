@@ -4,12 +4,12 @@ import {formatAgo} from "../util/date";
 import {Link, useNavigate} from "react-router-dom";
 import ViewCounter from "./ViewCounter";
 
-export default function VideoCard({videoData}) {
+export default function VideoCard({videoData, type}) {
     const { channelId, title, thumbnails, channelTitle, publishedAt } = videoData.snippet;
     const navigate = useNavigate();
 
     return (
-        <li className={styles.video_item}>
+        <li className={type === 'list' ? styles.video_item : ''}>
             {/*<Link to={`/videos/watch/${channelId}`}></Link>*/}
             <img
                 className={styles.thumbnails_image}

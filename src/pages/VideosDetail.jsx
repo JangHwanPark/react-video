@@ -6,6 +6,7 @@ import RelatedVideosList from "../components/RelatedVideosList";
 import LikeDislikeButton from "../components/LikeDislikeButton";
 import ChannelInfo from "../components/ChannelInfo";
 import ViewCounter from "../components/ViewCounter";
+import ChannelSubscribeButton from "../components/ChannelSubscribeButton";
 
 export default function VideosDetail() {
     const {state: {videoData}} = useLocation();
@@ -15,24 +16,37 @@ export default function VideosDetail() {
     return (
         <main className={styles.player_container}>
             <div className={styles.player_wrapper}>
-                <section>
-                    <iframe width="640" height="360" src={videoLink} frameBorder="0"/>
+                <section className={styles.player_section}>
+                    <iframe
+                        width="100%"
+                        height="460"
+                        src={videoLink}
+                        frameBorder="0"
+                    />
                     <h1>{title}</h1>
-                    <div>
-                        <ChannelInfo channelId={channelId} channelTitle={channelTitle}/>
-                        <button>가입</button>
-                        <button>구독</button>
-                        <LikeDislikeButton/>
-                        <button>공유</button>
+                    <div className={styles.channel}>
+                        <div className={styles.channel_owner}>
+                            <ChannelInfo channelId={channelId} channelTitle={channelTitle}/>
+                            {/*<button>가입</button>*/}
+                            <ChannelSubscribeButton/>
+                        </div>
+                        <div className={styles.channel_actions}>
+                            <LikeDislikeButton/>
+                            <button>공유</button>
+                        </div>
                     </div>
-                    <div>
+                    <div className={styles.channel_information}>
                         <ViewCounter/>
                         <span>{formatAgo(publishedAt, 'ko')}</span>
                     </div>
-                    <p>{description}</p>
-                    <span>{tags}</span>
+                    <div className={styles.channel_description}>
+                        <p>{description}</p>
+                        <p>{tags}</p>
+                    </div>
                 </section>
-                <RelatedVideosList videoId={videoData.id}/>
+                <section className={styles.related_section}>
+                    <RelatedVideosList videoId={videoData.id}/>
+                </section>
             </div>
         </main>
     );

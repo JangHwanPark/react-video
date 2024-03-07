@@ -1,4 +1,16 @@
 @charset "UTF-8";
+.video_item {
+  display: flex;
+  gap: 1rem; }
+  .video_item img {
+    width: 168px;
+    height: 94px; }
+  .video_item h3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2; }
+
 .thumbnails_image {
   width: 100%; }
 

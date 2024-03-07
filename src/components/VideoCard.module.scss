@@ -1,5 +1,18 @@
 .video_item {
+  display: flex;
+  gap: 1rem;
 
+  img {
+    width: 168px;
+    height: 94px;
+  }
+
+  h3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
 }
 
 .thumbnails_image {

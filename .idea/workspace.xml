@@ -5,14 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c6b28da-ef58-4a3f-99b9-5b8aba093597" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChannelInfo.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChannelSubscribeButton.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ChannelInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChannelInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RelatedVideosList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RelatedVideosList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/VideosDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VideosDetail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/VideosDetail.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VideosDetail.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/VideosDetail.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VideosDetail.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/VideosDetail.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VideosDetail.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,11 +52,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/GitReadme",
+    "last_opened_file_path": "C:/Users/user/Downloads/youtube_styling_9f1cda485d",
+    "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +68,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -55,6 +87,7 @@
       <workItem from="1709359258036" duration="4000" />
       <workItem from="1709685695832" duration="1000" />
       <workItem from="1709685881402" duration="3600000" />
+      <workItem from="1709765615689" duration="17046000" />
     </task>
     <servers />
   </component>

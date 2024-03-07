@@ -9,12 +9,11 @@ export default function RelatedVideosList({ videoId }) {
         queryKey: ['allVideo', videoId],
         queryFn: () => youtube.relatedVideos(videoId),
     })
-    console.log(allVideo)
 
     return (
         <ul>
             {allVideo && allVideo.map((videoData) => (
-                <VideoCard key={videoData.id} videoData={videoData}/>
+                <VideoCard key={videoData.id} videoData={videoData} type={'list'}/>
             ))}
         </ul>
     );

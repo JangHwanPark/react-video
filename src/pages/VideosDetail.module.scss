@@ -1,7 +1,42 @@
 .player_container {
   width: 100%;
+  padding: 0 3rem;
 }
 
 .player_wrapper {
+  display: flex;
+}
 
+.player_section {
+  width: 60%;
+  padding: 0 2rem;
+}
+
+.related_section {
+  width: 40%;
+}
+
+.channel {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+
+.channel_owner {
+  display: flex;
+  align-items: center;
+}
+
+.channel_actions {
+  display: flex;
+  align-items: center;
+}
+
+.channel_information {
+  display: flex;
+}
+
+.channel_description {
+  margin-top: 1rem;
 }
